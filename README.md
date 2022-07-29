@@ -24,7 +24,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 ![Screenshot (28)](https://user-images.githubusercontent.com/107956865/181852486-fd5b30d2-3551-4eae-8138-b884c44594c0.png)
 
 
-> This histogram tells us the number of samples that occur in a category. For item visibility, most products were not allocated alot of space, under MRP there were more than 1200 samples that were priced between 100 and 125, under item sales the cheapest items were sold the most
+> This histogram tells us the number of samples that occur in a category. For item visibility, most products were not allocated alot of space, under MRP there were more than 1200 samples that were priced between 100 and 125, under item sales the cheapest items were sold the most. Theres a heat map as well included in the colab  which reveal that MRP and sales have a weak correlation to item visibility. This heatmap suggests that just because an item is allocated a larger area it does not mean it will sell well
 
 #### A pair of line graphs to demonstrate product sales and which outlet types success
 ![Screenshot (30)](https://user-images.githubusercontent.com/107956865/181852992-95bdb0d2-34a3-4df5-8f78-503475c47b64.png)
