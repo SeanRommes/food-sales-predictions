@@ -35,7 +35,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 My Random forest model was able to predict 93% of the available data using r2 scores and had a low high error variance based off of the root mean scores. 
 
 ## Recomendations
-I would recomend our random forest model as it performed better on the r2 score with no tuning compared to our linear model which was also un-tuned. After some adjustments, i'm confident it can perform even better after some tuning!
+I would recomend the random forest model as it performed better on the r2 score with no tuning compared to our linear model which was also un-tuned. After some adjustments, i'm confident it can perform even better after some tuning!
 
 ## Limitations & Next Steps
 
